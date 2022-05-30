@@ -1,2 +1,3 @@
 # MarkDown
- Repositório para teste de MArkDown
+ Repositório para testes de MArkDown do curso de Git e Github
+ 
